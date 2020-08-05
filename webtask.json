@@ -1,9 +1,10 @@
 {
-  "title": "Auth0 Account Link",
-  "name": "auth0-account-link",
+  "title": "Auth0 Account Link (custom)",
+  "name": "custom-auth0-account-link",
+  "codeUrl": "https://github.com/siacomuzzi/auth0-account-link-extension/tree/custom_extension",
   "version": "2.5.0",
   "preVersion": "2.4.0",
-  "author": "auth0",
+  "author": "jdoe",
   "description":
     "This extension gives Auth0 customers the ability to allow their users to link their accounts",
   "type": "application",
